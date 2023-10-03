@@ -1,0 +1,81 @@
+.blue{
+   background-color:#2d5dcc; 
+   height: 100px;
+   width:100px;
+}
+.Pink {
+    background-color:#d957d9; 
+    height: 100px;
+    width:100px;
+ }
+ .green {
+    background-color:#4fe0b0; 
+    height: 100px;
+    width:100px;
+ }
+ .Subheading {
+    Font-weight: 500;
+    Font-size: 18px;
+    Font-family: Montserrat;
+ }
+ .paragraph {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: Montserrat;
+ }
+ .title {
+    color: rgb(134, 34, 34); 
+    font-weight: bold;
+    font-size: 150px;
+    margin: 100px;
+    margin-top:200px;
+    margin-left:400px;
+    font-family: Arial, sans-serif;
+ }
+ .breadcrumbs li {
+    
+   display: inline-block;
+   font-family: Montserrat, sans-serif;
+   font-size: 40px;
+  
+   box-shadow: 0 0 5px rgba(131, 98, 98, 0.25);
+   border: 1px solid rgba(0, 0, 0, 0.1);
+   border-radius: 5px;
+   background-color: #a41313;
+   
+ }
+ .breadcrumbs{
+    text-align: center;
+    margin-top: 50px;
+ }
+ 
+ .breadcrumbs a {
+    text-decoration: none;
+    color: white;
+    border-color: bisque;
+    justify-content: center;
+ }
+ .breadcrumbs li::after{
+    content: ">";
+    margin: 20px;
+ }
+ .ShonPic{
+    height: 600px;
+    width: 600px;
+    margin-left: 300px;
+ }
+ table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 30px;
+    width: 100%;
+    height: 800%;
+    
+  }
+  
+  th, td {
+    border: 1px solid black;
+    font-family: Tahoma;
+    font-size: 20px;
+  }
